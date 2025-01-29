@@ -1,4 +1,4 @@
-var domainUrl = "http://socio.appglow.in/";
+var domainUrl = "http://192.168.251.183:8000/";
 var sourceUrl = `${domainUrl}public/storage/`;
 
 var app = {

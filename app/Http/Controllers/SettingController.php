@@ -10,7 +10,6 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Validator;
 
-include "./app/Class/AgoraDynamicKey/RtcTokenBuilder.php";
 
 class SettingController extends Controller
 {
